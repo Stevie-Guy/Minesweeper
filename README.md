@@ -13,7 +13,7 @@ During my first year of college, I randomly came across a programming problem wi
 ### 2. Put both files inside the same folder
 ### 3. Compile `Minesweeper.cpp` and then run `Minesweeper.exe` that was created in the folder
 
-Rules:
+**Rules:**
 - Enter the coordonates of the block you want to reveal and hope it is not a mine 
-- If you reveal a mine ( * ) you lose, if you reveal a number, that number means how many mines are around that block(8 is the maximum number which can appear)
-- Reveal every block which is not a mine in order to win
+- If you reveal a mine ( * ) you *lose*, if you reveal a number, that number means how many mines are around that block(8 is the maximum number which can appear)
+- Reveal every block which is not a mine in order to *win*
