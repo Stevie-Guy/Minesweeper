@@ -11,4 +11,4 @@ During my first year of college, I randomly came across a programming problem wi
 ## How to play the game
 ### 1. [Install](https://code.visualstudio.com/download) Visual Studio Code for Windows 10 and the [GCC Compiler](https://sourceforge.net/projects/mingw-w64/)(Windows 10 is necessary)
 ### 2. Put both files inside the same folder
-### 3. Compile `Minesweeper.cpp` and then run `Minesweeper.exe` that was created in the folder(You need know the rules of Minesweeper in order to play)
+### 3. Compile `Minesweeper.cpp` and then run `Minesweeper.exe` that was created in the folder
