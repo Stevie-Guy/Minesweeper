@@ -1,5 +1,5 @@
 # Minesweeper
-Simple minesweeper recreation.
+A simple minesweeper recreation in the console, using C++.
 
 ## Software used for this project
 - Visual Studio 2022
