@@ -6,7 +6,7 @@ A simple minesweeper recreation in the console, using C++.
 - Compiler: gcc (MinGW.org GCC-6.3.0-1) 6.3.0
 
 ## About this project
-During my first year of college, I randomly came across a programming problem with the name "Minesweeper puzzle" and the idea "Let's program Minesweeper" instantly popped up.
+During my first year of college, I randomly came across a programming problem with the name "Minesweeper puzzle". As I always like to try new things, the thought "Let's program Minesweeper" instantly popped up, so here it is.
 
 ## How to play the game
 ### 1. [Install](https://code.visualstudio.com/download) Visual Studio Code for Windows 10 and the [GCC Compiler](https://sourceforge.net/projects/mingw-w64/)(Windows 10 is necessary)
