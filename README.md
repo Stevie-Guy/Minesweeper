@@ -15,6 +15,7 @@ During my first year of college, I randomly came across a programming problem wi
 
 
 ## Mechanics
-- Enter the coordonates of the block you want to reveal and hope it is not a mine 
-- If you reveal a mine ( * ) you LOSE, if you reveal a number, that number means how many mines are around that block (8 is the maximum number which can appear)
-- Reveal every block which is not a mine in order to WIN
+- The map is randomly generated through the MapGen.hpp file;
+- Enter the coordonates of the block you want to reveal and hope it is not a mine;
+- If you reveal a mine ( * ) you LOSE, if you reveal a number, that number means how many mines are around that block (8 is the maximum number which can appear);
+- Reveal every block which is not a mine in order to WIN.
